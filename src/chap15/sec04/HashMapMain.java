@@ -16,7 +16,7 @@ public class HashMapMain {
         System.out.println();
 
         String key = "홍길동";
-        int value = map.get(key);
+        Integer value = map.get(key);
         System.out.println(key + ": " + value);
         System.out.println();
 
@@ -24,7 +24,7 @@ public class HashMapMain {
         Iterator<String> keyIterator = keySet.iterator();
         while(keyIterator.hasNext()){
             String k = keyIterator.next();
-            Integer v = map.get(key);
+            int v = map.get(key);
             System.out.println(k + ": " + v);
         }
         System.out.println();
