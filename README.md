@@ -17,6 +17,8 @@
 [13장 제네릭](https://valiant-albatross-759.notion.site/13-1f50bad1b7268030a861f450d74ca0ab?pvs=4)  
 [14장 멀티 스레드](https://valiant-albatross-759.notion.site/14-1fa0bad1b726800f8037ec68624a4bfa?pvs=4)  
 [15장 컬렉션 자료구조](https://valiant-albatross-759.notion.site/15-1ff0bad1b72680209830ee0291553ef2?pvs=4)  
+[16장 람다식](https://valiant-albatross-759.notion.site/16-2060bad1b72680c4bcd7f5b705b7ede5?source=copy_link)  
+
 
 [JDK, JRE, JVM](https://valiant-albatross-759.notion.site/JDK-JRE-JVM-1ba0bad1b7268048b704fcfd02ed3676?pvs=4)  
 [컴파일러 vs 인터프리터](https://valiant-albatross-759.notion.site/vs-1bc0bad1b72680799371c8121edb91af?pvs=4)  
